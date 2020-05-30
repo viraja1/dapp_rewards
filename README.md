@@ -16,8 +16,14 @@ and rewards them with NFT for reaching certain milestones.
    ```
    cd dapp_rewards
    ```
+
+3) Install Packages
    
-3) Run tests
+   ```
+   npm install
+   ```
+   
+4) Run tests
 
    ```
    npm test 
